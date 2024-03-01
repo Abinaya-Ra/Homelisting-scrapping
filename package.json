@@ -1,0 +1,23 @@
+{
+  "name": "homelisting-scrapping",
+  "version": "1.0.0",
+  "description": "Home list web scrapper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abinaya-Ra/Homelisting-scrapping.git"
+  },
+  "author": "Abinaya Naga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abinaya-Ra/Homelisting-scrapping/issues"
+  },
+  "homepage": "https://github.com/Abinaya-Ra/Homelisting-scrapping#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "puppeteer": "^22.3.0"
+  }
+}
